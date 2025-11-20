@@ -1,0 +1,142 @@
+09/05/2025 23:24:41 > {"message":"AppID está pausado. Não é possível realizar o login."}
+09/05/2025 23:25:08 > {"message":"AppID está pausado. Não é possível realizar o login."}
+09/05/2025 23:25:17 > {"message":"AppID está pausado. Não é possível realizar o login."}
+09/05/2025 23:28:29 > {"message":"AppID está pausado. Não é possível realizar o login."}
+09/05/2025 23:28:54 > Erro ao verificar o status do AppID: Ocorreu um erro ao enviar a solicitação.
+09/05/2025 23:29:20 > LczxyAuth offline. Verifique Sua Conexão
+09/05/2025 23:29:29 > Erro ao verificar o status do AppID: Ocorreu um erro ao enviar a solicitação.
+09/05/2025 23:30:00 > Erro ao verificar o status do AppID: Ocorreu um erro ao enviar a solicitação.
+09/05/2025 23:30:18 > LczxyAuth offline. Verifique Sua Conexão
+09/05/2025 23:30:31 > LczxyAuth offline. Verifique Sua Conexão
+09/05/2025 23:31:06 > LczxyAuth offline. Verifique Sua Conexão
+09/05/2025 23:53:14 > LczxyAuth Offline. Verifique Sua conexão
+09/05/2025 23:53:21 > LczxyAuth Offline. Verifique Sua conexão
+09/05/2025 23:53:41 > Erro: LczxyAuth não está disponível no momento. Verifique Sua Conexão
+09/05/2025 23:58:01 > LczxyAuth offline. Verifique Sua Conexão
+09/05/2025 23:58:12 > {"message":"AppID não encontrado!"}
+09/05/2025 23:58:34 > {"message":"AppID não encontrado!"}
+10/05/2025 03:41:20 > {"message":"AppID está pausado. Não é possível realizar o login."}
+10/05/2025 04:03:26 > {"message":"AppID não encontrado!"}
+10/05/2025 06:03:26 > LczxyAuth offline. Verifique Sua Conexão
+10/05/2025 06:03:51 > {"message":"AppID não encontrado!"}
+10/05/2025 06:03:59 > {"message":"AppID não encontrado!"}
+10/05/2025 07:08:14 > {"message":"AppID não encontrado!"}
+10/05/2025 10:26:32 > {"message":"AppID está pausado. Não é possível realizar o login."}
+10/05/2025 10:28:43 > <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /check-app-status</pre>
+</body>
+</html>
+
+10/05/2025 10:28:49 > <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /check-app-status</pre>
+</body>
+</html>
+
+10/05/2025 10:28:58 > <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /check-app-status</pre>
+</body>
+</html>
+
+10/05/2025 10:29:02 > <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /check-app-status</pre>
+</body>
+</html>
+
+10/05/2025 10:29:20 > <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /check-app-status</pre>
+</body>
+</html>
+
+10/05/2025 10:29:38 > <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /check-app-status</pre>
+</body>
+</html>
+
+10/05/2025 10:29:58 > {"message":"AppID está pausado. Não é possível realizar o login."}
+10/05/2025 10:30:10 > {"message":"AppID está pausado. Não é possível realizar o login."}
+10/05/2025 10:30:38 > {"message":"AppID está pausado. Não é possível realizar o login."}
+10/05/2025 10:30:46 > {"message":"AppID está pausado. Não é possível realizar o login."}
+10/05/2025 10:30:55 > {"message":"AppID está pausado. Não é possível realizar o login."}
+10/05/2025 10:33:52 > {"message":"Erro ao verificar o status do AppID."}
+10/05/2025 10:33:59 > {"message":"Erro ao verificar o status do AppID."}
+10/05/2025 18:15:17 > {"message":"Erro ao verificar o status do AppID."}
+10/05/2025 18:35:40 > {"message":"AppID está pausado. Não é possível realizar o login."}
+10/05/2025 19:30:58 > {"message":"AppID está pausado. Não é possível realizar o login."}
+11/05/2025 14:56:23 > {"message":"AppID não encontrado!"}
+11/05/2025 15:13:04 > {"message":"AppID não encontrado!"}
+11/05/2025 15:13:21 > {"message":"AppID não encontrado!"}
+11/05/2025 15:24:16 > LczxyAuth offline. Verifique Sua Conexão
+11/05/2025 16:07:00 > {"message":"AppID não encontrado!"}
+15/05/2025 14:52:30 > {"message":"Erro ao verificar o status do AppID."}
+15/05/2025 14:52:59 > {"message":"Erro ao verificar o status do AppID."}
+15/05/2025 14:56:18 > {"message":"Erro ao verificar o status do AppID."}
+15/05/2025 15:15:18 > {"message":"Database não encontrada!"}
+15/05/2025 15:15:34 > {"message":"AppID não encontrado!"}
+15/05/2025 15:40:31 > {"message":"AppID está pausado. Não é possível realizar o login."}
+15/05/2025 16:04:53 > Erro: LczxyAuth não está disponível no momento. Verifique Sua Conexão
+15/05/2025 16:08:37 > {"message":"Database não encontrada!"}
+20/05/2025 01:20:17 > LczxyAuth offline. Verifique Sua Conexão
+20/05/2025 01:20:23 > LczxyAuth offline. Verifique Sua Conexão
+20/05/2025 01:20:50 > {"message":"Database não encontrada!"}
+21/05/2025 18:03:29 > LczxyAuth offline. Verifique Sua Conexão
+21/05/2025 18:03:44 > LczxyAuth offline. Verifique Sua Conexão
+21/05/2025 18:07:32 > {"message":"AppID está pausado. Não é possível realizar o login."}
+21/05/2025 18:07:42 > {"message":"AppID está pausado. Não é possível realizar o login."}
+21/05/2025 18:07:50 > {"message":"AppID está pausado. Não é possível realizar o login."}
+21/05/2025 18:07:58 > {"message":"AppID está pausado. Não é possível realizar o login."}
+10/06/2025 22:58:18 > {"message":"AppID está pausado. Não é possível realizar o login."}
+16/11/2025 06:13:22 > AppID não encontrado!
+16/11/2025 06:15:02 > LczxyAuth não foi inicializado. Chame o método Init() primeiro.
+16/11/2025 06:17:31 > LczxyAuth não pode ser instanciado diretamente. Você deve chamar o método Init() após a criação da instância, ou use LczxyAUTH.CreateAsync(appID, appDataBase) para criar e inicializar automaticamente.
+16/11/2025 06:17:38 > LczxyAuth não pode ser instanciado diretamente. Você deve chamar o método Init() após a criação da instância, ou use LczxyAUTH.CreateAsync(appID, appDataBase) para criar e inicializar automaticamente.
+16/11/2025 06:17:42 > LczxyAuth não pode ser instanciado diretamente. Você deve chamar o método Init() após a criação da instância, ou use LczxyAUTH.CreateAsync(appID, appDataBase) para criar e inicializar automaticamente.
+16/11/2025 06:19:44 > LczxyAuth não pode ser instanciado diretamente. Você deve chamar o método Init() após a criação da instância, ou use LczxyAUTH.CreateAsync(appID, appDataBase) para criar e inicializar automaticamente.
+16/11/2025 06:24:57 > ZeroAuth não foi inicializado. Chame o método Init() primeiro antes de usar qualquer método da classe.
+16/11/2025 06:25:06 > ZeroAuth não foi inicializado. Chame o método Init() primeiro antes de usar qualquer método da classe.
+16/11/2025 06:25:44 > ZeroAuth não foi inicializado. Chame o método Init() primeiro antes de usar qualquer método da classe.
+16/11/2025 06:25:55 > ZeroAuth não foi inicializado. Chame o método Init() primeiro antes de usar qualquer método da classe.
+16/11/2025 06:26:20 > ZeroAuth não foi inicializado. Chame o método Init() primeiro antes de usar qualquer método da classe.
+16/11/2025 06:27:19 > ZeroAuth não foi inicializado. Chame o método Init() primeiro antes de usar qualquer método da classe.
+16/11/2025 06:27:26 > ZeroAuth não foi inicializado. Chame o método Init() primeiro antes de usar qualquer método da classe.
+16/11/2025 06:27:56 > Database não encontrada!
+16/11/2025 06:28:09 > AppID não encontrado!
+20/11/2025 00:05:48 > ZeroAuth offline. Status: NotFound. Verifique sua conexão.
+20/11/2025 00:06:37 > ZeroAuth offline. Status: NotFound. Verifique sua conexão.
+20/11/2025 00:07:04 > ZeroAuth offline. Status: NotFound. Verifique sua conexão.
+20/11/2025 00:16:58 > ZeroAuth offline. Status: NotFound. Verifique sua conexão.

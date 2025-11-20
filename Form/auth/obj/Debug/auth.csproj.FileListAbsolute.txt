@@ -1,0 +1,230 @@
+C:\Users\Lczxy\source\repos\auth\auth\bin\Debug\auth.exe.config
+C:\Users\Lczxy\source\repos\auth\auth\bin\Debug\auth.exe
+C:\Users\Lczxy\source\repos\auth\auth\bin\Debug\auth.pdb
+C:\Users\Lczxy\source\repos\auth\auth\obj\Debug\auth.csproj.AssemblyReference.cache
+C:\Users\Lczxy\source\repos\auth\auth\obj\Debug\auth.Form1.resources
+C:\Users\Lczxy\source\repos\auth\auth\obj\Debug\auth.Properties.Resources.resources
+C:\Users\Lczxy\source\repos\auth\auth\obj\Debug\auth.csproj.GenerateResource.cache
+C:\Users\Lczxy\source\repos\auth\auth\obj\Debug\auth.csproj.CoreCompileInputs.cache
+C:\Users\Lczxy\source\repos\auth\auth\obj\Debug\auth.exe
+C:\Users\Lczxy\source\repos\auth\auth\obj\Debug\auth.pdb
+C:\Users\Lczxy\source\repos\auth\auth\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lczxy\source\repos\auth\auth\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lczxy\source\repos\auth\auth\obj\Debug\auth.csproj.Up2Date
+C:\Users\Lczxy\source\repos\auth\auth\bin\Debug\System.CodeDom.dll
+C:\Users\Lczxy\source\repos\auth\auth\bin\Debug\System.CodeDom.xml
+C:\Users\Lczxy\Documents\auth-api\auth\auth\bin\Debug\auth.exe.config
+C:\Users\Lczxy\Documents\auth-api\auth\auth\bin\Debug\auth.exe
+C:\Users\Lczxy\Documents\auth-api\auth\auth\bin\Debug\auth.pdb
+C:\Users\Lczxy\Documents\auth-api\auth\auth\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lczxy\Documents\auth-api\auth\auth\bin\Debug\System.CodeDom.dll
+C:\Users\Lczxy\Documents\auth-api\auth\auth\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lczxy\Documents\auth-api\auth\auth\bin\Debug\System.CodeDom.xml
+C:\Users\Lczxy\Documents\auth-api\auth\auth\obj\Debug\auth.csproj.AssemblyReference.cache
+C:\Users\Lczxy\Documents\auth-api\auth\auth\obj\Debug\auth.Form1.resources
+C:\Users\Lczxy\Documents\auth-api\auth\auth\obj\Debug\auth.Properties.Resources.resources
+C:\Users\Lczxy\Documents\auth-api\auth\auth\obj\Debug\auth.csproj.GenerateResource.cache
+C:\Users\Lczxy\Documents\auth-api\auth\auth\obj\Debug\auth.csproj.CoreCompileInputs.cache
+C:\Users\Lczxy\Documents\auth-api\auth\auth\obj\Debug\auth.csproj.Up2Date
+C:\Users\Lczxy\Documents\auth-api\auth\auth\obj\Debug\auth.exe
+C:\Users\Lczxy\Documents\auth-api\auth\auth\obj\Debug\auth.pdb
+C:\Users\Lczxy\Documents\auth-api\Form c#\auth\bin\Debug\auth.exe.config
+C:\Users\Lczxy\Documents\auth-api\Form c#\auth\bin\Debug\auth.exe
+C:\Users\Lczxy\Documents\auth-api\Form c#\auth\bin\Debug\auth.pdb
+C:\Users\Lczxy\Documents\auth-api\Form c#\auth\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lczxy\Documents\auth-api\Form c#\auth\bin\Debug\System.CodeDom.dll
+C:\Users\Lczxy\Documents\auth-api\Form c#\auth\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lczxy\Documents\auth-api\Form c#\auth\bin\Debug\System.CodeDom.xml
+C:\Users\Lczxy\Documents\auth-api\Form c#\auth\obj\Debug\auth.csproj.AssemblyReference.cache
+C:\Users\Lczxy\Documents\auth-api\Form c#\auth\obj\Debug\auth.Form1.resources
+C:\Users\Lczxy\Documents\auth-api\Form c#\auth\obj\Debug\auth.Properties.Resources.resources
+C:\Users\Lczxy\Documents\auth-api\Form c#\auth\obj\Debug\auth.csproj.GenerateResource.cache
+C:\Users\Lczxy\Documents\auth-api\Form c#\auth\obj\Debug\auth.csproj.CoreCompileInputs.cache
+C:\Users\Lczxy\Documents\auth-api\Form c#\auth\obj\Debug\auth.csproj.Up2Date
+C:\Users\Lczxy\Documents\auth-api\Form c#\auth\obj\Debug\auth.exe
+C:\Users\Lczxy\Documents\auth-api\Form c#\auth\obj\Debug\auth.pdb
+C:\Users\Lczxy\Documents\auth-api\C# Exemple\auth\bin\Debug\auth.exe.config
+C:\Users\Lczxy\Documents\auth-api\C# Exemple\auth\bin\Debug\auth.exe
+C:\Users\Lczxy\Documents\auth-api\C# Exemple\auth\bin\Debug\auth.pdb
+C:\Users\Lczxy\Documents\auth-api\C# Exemple\auth\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lczxy\Documents\auth-api\C# Exemple\auth\bin\Debug\System.CodeDom.dll
+C:\Users\Lczxy\Documents\auth-api\C# Exemple\auth\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lczxy\Documents\auth-api\C# Exemple\auth\bin\Debug\System.CodeDom.xml
+C:\Users\Lczxy\Documents\auth-api\C# Exemple\auth\obj\Debug\auth.csproj.AssemblyReference.cache
+C:\Users\Lczxy\Documents\auth-api\C# Exemple\auth\obj\Debug\auth.Form1.resources
+C:\Users\Lczxy\Documents\auth-api\C# Exemple\auth\obj\Debug\auth.Properties.Resources.resources
+C:\Users\Lczxy\Documents\auth-api\C# Exemple\auth\obj\Debug\auth.csproj.GenerateResource.cache
+C:\Users\Lczxy\Documents\auth-api\C# Exemple\auth\obj\Debug\auth.csproj.CoreCompileInputs.cache
+C:\Users\Lczxy\Documents\auth-api\C# Exemple\auth\obj\Debug\auth.csproj.Up2Date
+C:\Users\Lczxy\Documents\auth-api\C# Exemple\auth\obj\Debug\auth.exe
+C:\Users\Lczxy\Documents\auth-api\C# Exemple\auth\obj\Debug\auth.pdb
+C:\Users\Lczxy\Documents\auth-api\C# Exemple\auth\obj\Debug\auth.Form2.resources
+C:\Users\Lczxy\Documents\auth-api\C# Exemple\auth\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lczxy\Documents\auth-api\C# Exemple\auth\bin\Debug\System.Buffers.dll
+C:\Users\Lczxy\Documents\auth-api\C# Exemple\auth\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Lczxy\Documents\auth-api\C# Exemple\auth\bin\Debug\System.Memory.dll
+C:\Users\Lczxy\Documents\auth-api\C# Exemple\auth\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lczxy\Documents\auth-api\C# Exemple\auth\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lczxy\Documents\auth-api\C# Exemple\auth\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Lczxy\Documents\auth-api\C# Exemple\auth\bin\Debug\System.Text.Json.dll
+C:\Users\Lczxy\Documents\auth-api\C# Exemple\auth\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lczxy\Documents\auth-api\C# Exemple\auth\bin\Debug\System.ValueTuple.dll
+C:\Users\Lczxy\Documents\auth-api\C# Exemple\auth\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Lczxy\Documents\auth-api\C# Exemple\auth\bin\Debug\System.Buffers.xml
+C:\Users\Lczxy\Documents\auth-api\C# Exemple\auth\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Lczxy\Documents\auth-api\C# Exemple\auth\bin\Debug\System.Memory.xml
+C:\Users\Lczxy\Documents\auth-api\C# Exemple\auth\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lczxy\Documents\auth-api\C# Exemple\auth\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lczxy\Documents\auth-api\C# Exemple\auth\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Lczxy\Documents\auth-api\C# Exemple\auth\bin\Debug\System.Text.Json.xml
+C:\Users\Lczxy\Documents\auth-api\C# Exemple\auth\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lczxy\Documents\auth-api\C# Exemple\auth\bin\Debug\System.ValueTuple.xml
+C:\Users\Lczxy\Documents\auth-api\Csharp Exemple\auth\bin\Debug\auth.exe.config
+C:\Users\Lczxy\Documents\auth-api\Csharp Exemple\auth\bin\Debug\auth.exe
+C:\Users\Lczxy\Documents\auth-api\Csharp Exemple\auth\bin\Debug\auth.pdb
+C:\Users\Lczxy\Documents\auth-api\Csharp Exemple\auth\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lczxy\Documents\auth-api\Csharp Exemple\auth\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lczxy\Documents\auth-api\Csharp Exemple\auth\bin\Debug\System.Buffers.dll
+C:\Users\Lczxy\Documents\auth-api\Csharp Exemple\auth\bin\Debug\System.CodeDom.dll
+C:\Users\Lczxy\Documents\auth-api\Csharp Exemple\auth\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Lczxy\Documents\auth-api\Csharp Exemple\auth\bin\Debug\System.Memory.dll
+C:\Users\Lczxy\Documents\auth-api\Csharp Exemple\auth\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lczxy\Documents\auth-api\Csharp Exemple\auth\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lczxy\Documents\auth-api\Csharp Exemple\auth\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Lczxy\Documents\auth-api\Csharp Exemple\auth\bin\Debug\System.Text.Json.dll
+C:\Users\Lczxy\Documents\auth-api\Csharp Exemple\auth\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lczxy\Documents\auth-api\Csharp Exemple\auth\bin\Debug\System.ValueTuple.dll
+C:\Users\Lczxy\Documents\auth-api\Csharp Exemple\auth\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Lczxy\Documents\auth-api\Csharp Exemple\auth\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lczxy\Documents\auth-api\Csharp Exemple\auth\bin\Debug\System.Buffers.xml
+C:\Users\Lczxy\Documents\auth-api\Csharp Exemple\auth\bin\Debug\System.CodeDom.xml
+C:\Users\Lczxy\Documents\auth-api\Csharp Exemple\auth\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Lczxy\Documents\auth-api\Csharp Exemple\auth\bin\Debug\System.Memory.xml
+C:\Users\Lczxy\Documents\auth-api\Csharp Exemple\auth\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lczxy\Documents\auth-api\Csharp Exemple\auth\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lczxy\Documents\auth-api\Csharp Exemple\auth\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Lczxy\Documents\auth-api\Csharp Exemple\auth\bin\Debug\System.Text.Json.xml
+C:\Users\Lczxy\Documents\auth-api\Csharp Exemple\auth\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lczxy\Documents\auth-api\Csharp Exemple\auth\bin\Debug\System.ValueTuple.xml
+C:\Users\Lczxy\Documents\auth-api\Csharp Exemple\auth\obj\Debug\auth.csproj.AssemblyReference.cache
+C:\Users\Lczxy\Documents\auth-api\Csharp Exemple\auth\obj\Debug\auth.Form1.resources
+C:\Users\Lczxy\Documents\auth-api\Csharp Exemple\auth\obj\Debug\auth.Form2.resources
+C:\Users\Lczxy\Documents\auth-api\Csharp Exemple\auth\obj\Debug\auth.Properties.Resources.resources
+C:\Users\Lczxy\Documents\auth-api\Csharp Exemple\auth\obj\Debug\auth.csproj.GenerateResource.cache
+C:\Users\Lczxy\Documents\auth-api\Csharp Exemple\auth\obj\Debug\auth.csproj.CoreCompileInputs.cache
+C:\Users\Lczxy\Documents\auth-api\Csharp Exemple\auth\obj\Debug\auth.csproj.Up2Date
+C:\Users\Lczxy\Documents\auth-api\Csharp Exemple\auth\obj\Debug\auth.exe
+C:\Users\Lczxy\Documents\auth-api\Csharp Exemple\auth\obj\Debug\auth.pdb
+C:\Users\Lczxy\Documents\auth-api\Exemples\Csharp Exemple\auth\bin\Debug\auth.exe.config
+C:\Users\Lczxy\Documents\auth-api\Exemples\Csharp Exemple\auth\bin\Debug\auth.exe
+C:\Users\Lczxy\Documents\auth-api\Exemples\Csharp Exemple\auth\bin\Debug\auth.pdb
+C:\Users\Lczxy\Documents\auth-api\Exemples\Csharp Exemple\auth\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lczxy\Documents\auth-api\Exemples\Csharp Exemple\auth\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lczxy\Documents\auth-api\Exemples\Csharp Exemple\auth\bin\Debug\System.Buffers.dll
+C:\Users\Lczxy\Documents\auth-api\Exemples\Csharp Exemple\auth\bin\Debug\System.CodeDom.dll
+C:\Users\Lczxy\Documents\auth-api\Exemples\Csharp Exemple\auth\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Lczxy\Documents\auth-api\Exemples\Csharp Exemple\auth\bin\Debug\System.Memory.dll
+C:\Users\Lczxy\Documents\auth-api\Exemples\Csharp Exemple\auth\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lczxy\Documents\auth-api\Exemples\Csharp Exemple\auth\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lczxy\Documents\auth-api\Exemples\Csharp Exemple\auth\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Lczxy\Documents\auth-api\Exemples\Csharp Exemple\auth\bin\Debug\System.Text.Json.dll
+C:\Users\Lczxy\Documents\auth-api\Exemples\Csharp Exemple\auth\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lczxy\Documents\auth-api\Exemples\Csharp Exemple\auth\bin\Debug\System.ValueTuple.dll
+C:\Users\Lczxy\Documents\auth-api\Exemples\Csharp Exemple\auth\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Lczxy\Documents\auth-api\Exemples\Csharp Exemple\auth\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lczxy\Documents\auth-api\Exemples\Csharp Exemple\auth\bin\Debug\System.Buffers.xml
+C:\Users\Lczxy\Documents\auth-api\Exemples\Csharp Exemple\auth\bin\Debug\System.CodeDom.xml
+C:\Users\Lczxy\Documents\auth-api\Exemples\Csharp Exemple\auth\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Lczxy\Documents\auth-api\Exemples\Csharp Exemple\auth\bin\Debug\System.Memory.xml
+C:\Users\Lczxy\Documents\auth-api\Exemples\Csharp Exemple\auth\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lczxy\Documents\auth-api\Exemples\Csharp Exemple\auth\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lczxy\Documents\auth-api\Exemples\Csharp Exemple\auth\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Lczxy\Documents\auth-api\Exemples\Csharp Exemple\auth\bin\Debug\System.Text.Json.xml
+C:\Users\Lczxy\Documents\auth-api\Exemples\Csharp Exemple\auth\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lczxy\Documents\auth-api\Exemples\Csharp Exemple\auth\bin\Debug\System.ValueTuple.xml
+C:\Users\Lczxy\Documents\auth-api\Exemples\Csharp Exemple\auth\obj\Debug\auth.csproj.AssemblyReference.cache
+C:\Users\Lczxy\Documents\auth-api\Exemples\Csharp Exemple\auth\obj\Debug\auth.Form1.resources
+C:\Users\Lczxy\Documents\auth-api\Exemples\Csharp Exemple\auth\obj\Debug\auth.Form2.resources
+C:\Users\Lczxy\Documents\auth-api\Exemples\Csharp Exemple\auth\obj\Debug\auth.Properties.Resources.resources
+C:\Users\Lczxy\Documents\auth-api\Exemples\Csharp Exemple\auth\obj\Debug\auth.csproj.GenerateResource.cache
+C:\Users\Lczxy\Documents\auth-api\Exemples\Csharp Exemple\auth\obj\Debug\auth.csproj.CoreCompileInputs.cache
+C:\Users\Lczxy\Documents\auth-api\Exemples\Csharp Exemple\auth\obj\Debug\auth.csproj.Up2Date
+C:\Users\Lczxy\Documents\auth-api\Exemples\Csharp Exemple\auth\obj\Debug\auth.exe
+C:\Users\Lczxy\Documents\auth-api\Exemples\Csharp Exemple\auth\obj\Debug\auth.pdb
+C:\Users\Lczxy\Documents\auth-api\Exemples\Csharp Exemple\auth\obj\Debug\auth.Form3.resources
+C:\Users\Lczxy\Documents\auth-api\Exemples\Csharp Exemple\auth\obj\Debug\auth.exe.config
+C:\Users\Lczxy3357\Desktop\Auth\Exemples\Csharp Exemple\auth\bin\Debug\auth.exe.config
+C:\Users\Lczxy3357\Desktop\Auth\Exemples\Csharp Exemple\auth\bin\Debug\auth.exe
+C:\Users\Lczxy3357\Desktop\Auth\Exemples\Csharp Exemple\auth\bin\Debug\auth.pdb
+C:\Users\Lczxy3357\Desktop\Auth\Exemples\Csharp Exemple\auth\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lczxy3357\Desktop\Auth\Exemples\Csharp Exemple\auth\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lczxy3357\Desktop\Auth\Exemples\Csharp Exemple\auth\bin\Debug\System.Buffers.dll
+C:\Users\Lczxy3357\Desktop\Auth\Exemples\Csharp Exemple\auth\bin\Debug\System.CodeDom.dll
+C:\Users\Lczxy3357\Desktop\Auth\Exemples\Csharp Exemple\auth\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Lczxy3357\Desktop\Auth\Exemples\Csharp Exemple\auth\bin\Debug\System.Memory.dll
+C:\Users\Lczxy3357\Desktop\Auth\Exemples\Csharp Exemple\auth\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lczxy3357\Desktop\Auth\Exemples\Csharp Exemple\auth\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lczxy3357\Desktop\Auth\Exemples\Csharp Exemple\auth\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Lczxy3357\Desktop\Auth\Exemples\Csharp Exemple\auth\bin\Debug\System.Text.Json.dll
+C:\Users\Lczxy3357\Desktop\Auth\Exemples\Csharp Exemple\auth\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lczxy3357\Desktop\Auth\Exemples\Csharp Exemple\auth\bin\Debug\System.ValueTuple.dll
+C:\Users\Lczxy3357\Desktop\Auth\Exemples\Csharp Exemple\auth\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Lczxy3357\Desktop\Auth\Exemples\Csharp Exemple\auth\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lczxy3357\Desktop\Auth\Exemples\Csharp Exemple\auth\bin\Debug\System.Buffers.xml
+C:\Users\Lczxy3357\Desktop\Auth\Exemples\Csharp Exemple\auth\bin\Debug\System.CodeDom.xml
+C:\Users\Lczxy3357\Desktop\Auth\Exemples\Csharp Exemple\auth\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Lczxy3357\Desktop\Auth\Exemples\Csharp Exemple\auth\bin\Debug\System.Memory.xml
+C:\Users\Lczxy3357\Desktop\Auth\Exemples\Csharp Exemple\auth\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lczxy3357\Desktop\Auth\Exemples\Csharp Exemple\auth\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lczxy3357\Desktop\Auth\Exemples\Csharp Exemple\auth\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Lczxy3357\Desktop\Auth\Exemples\Csharp Exemple\auth\bin\Debug\System.Text.Json.xml
+C:\Users\Lczxy3357\Desktop\Auth\Exemples\Csharp Exemple\auth\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lczxy3357\Desktop\Auth\Exemples\Csharp Exemple\auth\bin\Debug\System.ValueTuple.xml
+C:\Users\Lczxy3357\Desktop\Auth\Exemples\Csharp Exemple\auth\obj\Debug\auth.csproj.AssemblyReference.cache
+C:\Users\Lczxy3357\Desktop\Auth\Exemples\Csharp Exemple\auth\obj\Debug\auth.exe.config
+C:\Users\Lczxy3357\Desktop\Auth\Exemples\Csharp Exemple\auth\obj\Debug\auth.Form1.resources
+C:\Users\Lczxy3357\Desktop\Auth\Exemples\Csharp Exemple\auth\obj\Debug\auth.Form2.resources
+C:\Users\Lczxy3357\Desktop\Auth\Exemples\Csharp Exemple\auth\obj\Debug\auth.Form3.resources
+C:\Users\Lczxy3357\Desktop\Auth\Exemples\Csharp Exemple\auth\obj\Debug\auth.Properties.Resources.resources
+C:\Users\Lczxy3357\Desktop\Auth\Exemples\Csharp Exemple\auth\obj\Debug\auth.csproj.GenerateResource.cache
+C:\Users\Lczxy3357\Desktop\Auth\Exemples\Csharp Exemple\auth\obj\Debug\auth.csproj.CoreCompileInputs.cache
+C:\Users\Lczxy3357\Desktop\Auth\Exemples\Csharp Exemple\auth\obj\Debug\auth.csproj.Up2Date
+C:\Users\Lczxy3357\Desktop\Auth\Exemples\Csharp Exemple\auth\obj\Debug\auth.exe
+C:\Users\Lczxy3357\Desktop\Auth\Exemples\Csharp Exemple\auth\obj\Debug\auth.pdb
+D:\Auth\Exemples\Csharp Exemple\auth\bin\Debug\auth.exe.config
+D:\Auth\Exemples\Csharp Exemple\auth\bin\Debug\auth.exe
+D:\Auth\Exemples\Csharp Exemple\auth\bin\Debug\auth.pdb
+D:\Auth\Exemples\Csharp Exemple\auth\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Auth\Exemples\Csharp Exemple\auth\bin\Debug\Newtonsoft.Json.dll
+D:\Auth\Exemples\Csharp Exemple\auth\bin\Debug\System.Buffers.dll
+D:\Auth\Exemples\Csharp Exemple\auth\bin\Debug\System.CodeDom.dll
+D:\Auth\Exemples\Csharp Exemple\auth\bin\Debug\System.IO.Pipelines.dll
+D:\Auth\Exemples\Csharp Exemple\auth\bin\Debug\System.Memory.dll
+D:\Auth\Exemples\Csharp Exemple\auth\bin\Debug\System.Numerics.Vectors.dll
+D:\Auth\Exemples\Csharp Exemple\auth\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Auth\Exemples\Csharp Exemple\auth\bin\Debug\System.Text.Encodings.Web.dll
+D:\Auth\Exemples\Csharp Exemple\auth\bin\Debug\System.Text.Json.dll
+D:\Auth\Exemples\Csharp Exemple\auth\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Auth\Exemples\Csharp Exemple\auth\bin\Debug\System.ValueTuple.dll
+D:\Auth\Exemples\Csharp Exemple\auth\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Auth\Exemples\Csharp Exemple\auth\bin\Debug\Newtonsoft.Json.xml
+D:\Auth\Exemples\Csharp Exemple\auth\bin\Debug\System.Buffers.xml
+D:\Auth\Exemples\Csharp Exemple\auth\bin\Debug\System.CodeDom.xml
+D:\Auth\Exemples\Csharp Exemple\auth\bin\Debug\System.IO.Pipelines.xml
+D:\Auth\Exemples\Csharp Exemple\auth\bin\Debug\System.Memory.xml
+D:\Auth\Exemples\Csharp Exemple\auth\bin\Debug\System.Numerics.Vectors.xml
+D:\Auth\Exemples\Csharp Exemple\auth\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Auth\Exemples\Csharp Exemple\auth\bin\Debug\System.Text.Encodings.Web.xml
+D:\Auth\Exemples\Csharp Exemple\auth\bin\Debug\System.Text.Json.xml
+D:\Auth\Exemples\Csharp Exemple\auth\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Auth\Exemples\Csharp Exemple\auth\bin\Debug\System.ValueTuple.xml
+D:\Auth\Exemples\Csharp Exemple\auth\obj\Debug\auth.csproj.AssemblyReference.cache
+D:\Auth\Exemples\Csharp Exemple\auth\obj\Debug\auth.Form1.resources
+D:\Auth\Exemples\Csharp Exemple\auth\obj\Debug\auth.Form2.resources
+D:\Auth\Exemples\Csharp Exemple\auth\obj\Debug\auth.Form3.resources
+D:\Auth\Exemples\Csharp Exemple\auth\obj\Debug\auth.Properties.Resources.resources
+D:\Auth\Exemples\Csharp Exemple\auth\obj\Debug\auth.csproj.GenerateResource.cache
+D:\Auth\Exemples\Csharp Exemple\auth\obj\Debug\auth.csproj.CoreCompileInputs.cache
+D:\Auth\Exemples\Csharp Exemple\auth\obj\Debug\auth.csproj.Up2Date
+D:\Auth\Exemples\Csharp Exemple\auth\obj\Debug\auth.exe
+D:\Auth\Exemples\Csharp Exemple\auth\obj\Debug\auth.pdb
